@@ -34,7 +34,7 @@ double SrArf(double x, double y) {
 
 // Функция для вычисления среднего геометрического
 double GrGeo(double x, double y) {
-    
+    return sqrt(x * y);
 }
 
 int main() {
